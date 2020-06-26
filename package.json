@@ -28,6 +28,7 @@
     "css-loader": "^3.5.2",
     "jest": "^25.4.0",
     "jest-puppeteer": "^4.4.0",
+    "newrelic": "^6.10.0",
     "puppeteer": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -37,7 +38,6 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "newrelic": "^6.10.0",
     "node": "^13.13.0"
   },
   "jest": {
