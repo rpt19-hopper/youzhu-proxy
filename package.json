@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "newrelic": "^6.10.0",
     "node": "^13.13.0"
   },
   "jest": {
