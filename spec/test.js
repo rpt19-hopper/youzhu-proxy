@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-const pageUrl = 'http://ec2-18-144-28-164.us-west-1.compute.amazonaws.com:9999/listing/549504785';
+const pageUrl = 'http://localhost:9999/listing/549504785';
 
 let page;
 let browser;
