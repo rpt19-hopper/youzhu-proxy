@@ -3,4 +3,4 @@ import ReactDOM from 'react-dom';
 import App from './components/App.jsx';
 import './style.css';
 
-ReactDOM.render(<App/>, document.getElementById('proxy'))
+ReactDOM.hydrate(<App/>, document.getElementById('proxy'))
